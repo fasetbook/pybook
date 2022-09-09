@@ -1,0 +1,1 @@
+acc=open('pybook','r')
