@@ -1,9 +1,31 @@
-trojan://ec2ff9d9-f00d-444f-b843-e8c011a99c40@ukt1.sshocean.net:443?security=tls&headerType=none&type=tcp&sni=frgvedrfvefr#sshocean-ddcsfwe_trojan
-trojan://04c20131-5f4c-4094-b8c1-cf5ff2c81d3f@cat1.sshocean.net:443?security=tls&headerType=none&type=tcp&sni=dgretet#sshocean-gedrgvhbgfg_trojan
-trojan://2ac50230-b465-45db-80a5-277beb2ec5f0@fit1.sshocean.net:443?security=tls&headerType=none&type=tcp&sni=www.bing.com#sshocean-eqwedwqad_trojan
-trojan://opentunnel.net-adfsdevfsrg@nlt-1.opensvr.net:443?sni=fsedfaeff#opentunnel.net-adfsdevfsrg
-trojan://7e225540-3010-11ed-a6b0-1239d0255272@us-trojan.bonds.id:443?sni=#US Trojan VPN
-trojan://99170570-3010-11ed-af12-1239d0255272@ca-trojan.bonds.id:443?sni=#CA Trojan VPN
-trojan://c2827070-3010-11ed-a7ca-1239d0255272@fr-trojan.bonds.id:443?sni=www.bing.com#FR Trojan VPN
-trojan://69fcd480-373a-11ed-bbb2-1239d0255272@ca-trojan.bonds.id:443/?sni=
-trojan://db601620-373a-11ed-989e-1239d0255272@us-trojan.bonds.id:443/?sni=
+------------opentunnel.net  30
+trojan://opentunnel.net-asdfrbgrhth@nlt-1.opensvr.net:443?sni=erfverfg#opentunnel.net-asdfrbgrhth
+
+
+------------howdy.id  30
+trojan://8e882f20-3d87-11ed-a740-1239d0255272@nl-trojan.bonds.id:443/?sni=
+
+trojan://b4f943e0-3d87-11ed-8771-1239d0255272@fr-trojan.bonds.id:443/?sni=
+
+trojan://dc374900-3d87-11ed-af2b-1239d0255272@ca-trojan.bonds.id:443/?sni=
+
+trojan://f031d930-3d87-11ed-bd4a-1239d0255272@us-trojan.bonds.id:443/?sni=
+
+
+------------sshocean.com 7
+trojan://71b0772e-8686-441e-b4f1-ea2085519c64@ust1.sshocean.net:443?security=tls&headerType=none&type=tcp&sni=dcfsweferg#sshocean-sadbmmmjj_trojan
+
+trojan://87b429d7-25dd-4315-a236-036b374758ef@fit1.sshocean.net:443?security=tls&headerType=none&type=tcp&sni=rferfwerw#sshocean-asdbvrdtg_trojan
+
+trojan://24c8539d-9fa6-4a60-95b3-3073bb1395bf@frt1.sshocean.net:443?host=frt1.sshocean.net&path=%2Fwebsocket&sni=aorrpong&type=ws#sshocean-jinghain_trojan_ws
+
+trojan://b9b13b0c-aecd-4200-bc05-4c9f18d6d169@ukt1.sshocean.net:443?host=ukt1.sshocean.net&path=%2Fwebsocket&sni=www.bing.com&type=ws#sshocean-vhmghjh_trojan_ws
+
+vless://5c89c04d-8e35-4e37-bc70-ca236e29b90e@jp1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=jp1.v2vless.xyz&sni=vfsvgre&type=ws#sshocean-dawdwsf
+
+vless://e43dad51-3465-4f62-b507-bfe05e017fd1@ch1.v2vless.xyz:443?path=%2Fvless&security=tls&encryption=none&host=ch1.v2vless.xyz&sni=trgbrtg&type=ws#sshocean-dwafgtrh
+
+-----------www.racevpn.com  3
+trojan://2a474e23-e610-4f2a-8c70-9907e98b4c80@de-full.privateip.net:443#trojan-tcp
+
+vless://b7244e4c-9865-4d80-b758-d5adec3b858b@de-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fvless&headerType=none#vless-ws-tls
