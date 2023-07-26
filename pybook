@@ -1,5 +1,16 @@
 ------------opentunnel.net  30
 trojan://opentunnel.net-asdefrwer@cat-1.opensvr.net:443?sni=wrrwrwrwrw#opentunnel.net-asdefrwer
+trojan://opentunnel.net-justin@ukt-1.opensvr.net:443?security=tls&sni=www.bing.com&type=tcp&headerType=none#opentunnel.net-justin
+trojan://opentunnel.net-babyabcd@sgt-3.opensvr.net:443?security=tls&type=tcp&headerType=none#%E4%B8%8D%E9%80%9Aopentunnel
+trojan://opentunnel.net-oknnoroot@sgt-1.opensvr.net:443?security=tls&sni=www.nginx.com&type=tcp&headerType=none#opentunnel.net-oknnoroot
+trojan://opentunnel.net-jimilisi@idt-1.opensvr.net:443?security=tls&sni=icook.tw&type=tcp&headerType=none#opentunnel.net-jimilisi
+trojan://eb206127-a2f7-45fa-a33a-243703053def@ust1.sshocean.net:443?security=tls&sni=icook.hk&type=ws&host=ust1.sshocean.net&path=%2Fwebsocket#sshocean-awadaw_trojan_ws
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjjmnIgx5pel5Yiw5pyfc3Nob2NlYW4tdGdlcnJyZSIsDQogICJhZGQiOiAic2cyLWN0Yi52MnJheXNlcnYuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU5YTg2NTIyLTFlMmEtNGIyNi04ZTIzLTRkM2IyNTRhYWEwYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2cyLWN0Yi52MnJheXNlcnYuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImljb29rLnR3IiwNCiAgImFscG4iOiAiIg0KfQ==
+
 ------------howdy.id
+trojan://8fe97f60-2b80-11ee-914c-1239d0255272@nl.test3.net:443?security=tls&type=ws&host=nl.test3.net&path=%2Fhowdy
+trojan://be1cdf20-2b80-11ee-9270-1239d0255272@ca-trojan.bonds.id:443?security=tls&type=ws&host=ca-trojan.bonds.id&path=%2Fhowdy
+trojan://e4b44610-2b80-11ee-a5c5-1239d0255272@de-2.test3.net:443?security=tls&sni=de-2.test3.net&type=ws&host=de-2.test3.net&path=%2Fhowdy#%E4%B8%8D%E9%80%9Ahowdy.id
+
 
 
