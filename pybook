@@ -8,8 +8,8 @@ trojan://eb206127-a2f7-45fa-a33a-243703053def@ust1.sshocean.net:443?security=tls
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjjmnIgx5pel5Yiw5pyfc3Nob2NlYW4tdGdlcnJyZSIsDQogICJhZGQiOiAic2cyLWN0Yi52MnJheXNlcnYuY29tIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjU5YTg2NTIyLTFlMmEtNGIyNi04ZTIzLTRkM2IyNTRhYWEwYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAic2cyLWN0Yi52MnJheXNlcnYuY29tIiwNCiAgInBhdGgiOiAiL3ZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImljb29rLnR3IiwNCiAgImFscG4iOiAiIg0KfQ==
 
 ------------howdy.id
-trojan://8fe97f60-2b80-11ee-914c-1239d0255272@nl.test3.net:443?security=tls&type=ws&host=nl.test3.net&path=%2Fhowdy
-trojan://be1cdf20-2b80-11ee-9270-1239d0255272@ca-trojan.bonds.id:443?security=tls&type=ws&host=ca-trojan.bonds.id&path=%2Fhowdy
+trojan://8fe97f60-2b80-11ee-914c-1239d0255272@nltest3.justinicu.eu.org:443?security=tls&type=ws&host=nltest3.justinicu.eu.org&path=%2Fhowdy#a
+trojan://be1cdf20-2b80-11ee-9270-1239d0255272@ca-trojan.justinicu.eu.org:443?security=tls&type=ws&host=ca-trojan.justinicu.eu.org&path=%2Fhowdy#%20
 trojan://e4b44610-2b80-11ee-a5c5-1239d0255272@de-2.test3.net:443?security=tls&sni=de-2.test3.net&type=ws&host=de-2.test3.net&path=%2Fhowdy#%E4%B8%8D%E9%80%9Ahowdy.id
 
 
